@@ -4,4 +4,4 @@ such as navigational items, hover or active functions, and more.
 
 Hue-Rotate:
 
-![Optional Text](../master/Trick-Images/Hue-Rotate.png)
+![Optional Text](../master/Images/Hue-Rotate.png)
