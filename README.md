@@ -3,4 +3,4 @@ Contains modern and creative front facing web development components which are c
 such as navigational items, hover or active functions, and more.
 
 Hue-Rotate:
-![alt text](https://github.com/[RajLikhari]/[CSS-Tricks]/blob/master/Trick-Images/Hue-Rotate.png?raw=true)
+![Optional Text](../master/Trick-Images/Hue-Rotate.png)
