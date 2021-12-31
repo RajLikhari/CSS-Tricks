@@ -3,4 +3,5 @@ Contains modern and creative front facing web development components which are c
 such as navigational items, hover or active functions, and more.
 
 Hue-Rotate:
+
 ![Optional Text](../master/Trick-Images/Hue-Rotate.png)
