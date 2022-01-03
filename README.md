@@ -1,11 +1,13 @@
 # CSS-Tricks
+**Credit will be provided for each CSS trick** 
+
 Hue-Rotate:\
-@Youtube - Online Tutorials
+@Youtube - [Online Tutorials](https://www.youtube.com/watch?v=41tNotMxu1A&t=21s)
 
 ![Optional Text](../master/Images/Hue-Rotate.png)
 
 Active-Navigation:\
-@Youtube - Online Tutorials
+@Youtube - [Online Tutorials](https://www.youtube.com/watch?v=ArTVfdHOB-M&t=240s)
 
 ![Optional Text](../master/Images/Active-Navigation.png)
 
